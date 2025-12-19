@@ -6,7 +6,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](PLACEHOLDER_FOR_YOUR_IMAGE_LINK_HERE)
+![Dashboard Screenshot](DASHBOARD_SCREENSHOT.png)
 *(A comprehensive executive view of Metroville Municipality's financial health, tracking budget variance, revenue collection, and outstanding debt.)*
 
 ---
@@ -17,7 +17,7 @@
 **Role:** Data Analyst  
 **Tools:** Microsoft Excel (Advanced)
 
-This project simulates a real-world financial analytics scenario for a South African Municipality. The goal was to transform raw monthly transactional data into an interactive Executive Dashboard that allows the CFO and Ward Councilors to monitor fiscal performance, identify overspending, and track revenue collection efficiency.
+This project simulates a real-world financial analytics scenario for Metroville Municipality (Fictional). The goal was to transform raw monthly transactional data into an interactive Executive Dashboard that allows the CFO and Ward Councilors to monitor fiscal performance, identify overspending, and track revenue collection efficiency.
 
 ### 🎯 The Business Problem
 Municipalities often struggle with:
@@ -37,7 +37,7 @@ I built a dynamic dashboard that provides:
 
 This project demonstrates an end-to-end data analytics workflow within Excel:
 
-### 1. Data Cleaning & Transformation (ETL)
+### 1. Data Cleaning & Transformation
 -   Converted raw CSV extracts into structured **Excel Tables** for dynamic range handling.
 -   Performed data type conversion (Text-to-Date) to enable Timeline filtering.
 -   Standardized "Service Type" and "Department" naming conventions.
@@ -64,9 +64,9 @@ This project demonstrates an end-to-end data analytics workflow within Excel:
 
 ## 📂 Files in this Repository
 
--   `Municipality_Finance_Analytics.xlsx` - The fully functional dashboard file.
+-   `Municipality_Finance_Analytics_Dashboard.xlsx` - The fully functional dashboard file.
 -   `Raw_Data.csv` - The original dataset used for analysis.
--   `Dashboard_Screenshot.png` - High-resolution image of the final output.
+-   `DASHBOARD_SCREENSHOT.png` - High-resolution image of the final output.
 
 ---
 
@@ -82,9 +82,9 @@ This project demonstrates an end-to-end data analytics workflow within Excel:
 
 ## 👤 Author
 
-**[YOUR NAME]** *Data Analyst | Excel Specialist*
+**Bheki Mogola** *Data Analyst | Business Analyst
 
-[LinkedIn Profile](LINK_TO_YOUR_LINKEDIN) | [Portfolio](LINK_TO_YOUR_PORTFOLIO)
+[LinkedIn Profile](https://www.linkedin.com/in/bheki-mogola/)
 
 ---
 *Note: This dataset is a simulation created for educational purposes.*
